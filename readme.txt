@@ -1,0 +1,5 @@
+seq.v 是verilog程序
+testBranch.v 是仿真文件
+SEQ.xdc是约束文件
+CS1609_H1160300903_王昭为.doc是word报告
+CS1609_H1160300903_王昭为.pdf是pdf报告
